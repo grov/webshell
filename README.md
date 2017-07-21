@@ -2,5 +2,6 @@
 
 Usefull Webshell list : 
 
-* Webshell ASP
-* Single line PHP Webshell
+* webshell ASP
+* Single line PHP webshell
+* Wordpress Plug-in webshell
